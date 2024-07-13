@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/hulkmania40",
+  "homepage": "https://hulkmania40.githib.io/my-portfolio",
   "name": "my-portfolio-reactts",
   "version": "0.2.1",
   "private": true,
@@ -21,16 +21,16 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
-    "gh-pages": "^6.0.0",
+    "gh-pages": "^6.1.1",
     "node-sass": "^9.0.0",
     "react-scripts": "5.0.1",
     "sass-loader": "^14.2.1",
     "typescript": "^5.5.3"
   },
   "scripts": {
-    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
