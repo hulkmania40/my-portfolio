@@ -23,8 +23,8 @@ const Myprojects: React.FC = () => {
           <h3>My Portfolio (This website)</h3>
           <small className='text-light'>ReactTS | SCSS</small>
           <div className="portfolio__item-cta">
-            <a href="#" target="_blank" rel='noreferrer' className='btn'>Github</a>
-            <a href="#" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>
+            <a href="https://github.com/hulkmania40/my-portfolio" target="_blank" rel='noreferrer' className='btn'>Github</a>
+            <a href="https://hulkmania40.github.io/my-portfolio/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>
           </div>
         </article>
 

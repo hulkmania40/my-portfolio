@@ -49,15 +49,13 @@ const About: React.FC = () => {
             </article>
           </div>
           <p>
-            I'm a <b>Full Stack Developer</b>. I'm an enthusiastic and driven
-            Software Engineering student seeking a challenging full-time
+            I'm a <b>Full Stack Developer</b> with over 3 years of experience.
+            As an enthusiastic Software Engineer, I seek a challenging full-time
             opportunity to apply and expand my technical skills. With a strong
-            academic foundation in software engineering and hands-on experience
-            in various programming languages, I am eager to contribute to
-            innovative projects and learn from experienced professionals in the
-            industry. I am a quick learner who is always ready to face
-            challenges. Additionally, I possess strong problem-solving skills
-            essential for resolving complex technical issues.
+            academic background and hands-on experience in various programming
+            languages, I am eager to contribute to innovative projects and learn
+            from seasoned professionals. I am a quick learner with strong
+            problem-solving skills, ready to face any challenge.
           </p>
         </div>
       </div>
