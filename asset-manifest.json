@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.9faee23c.css",
-    "main.js": "/my-portfolio/static/js/main.61000b0e.js",
+    "main.js": "/my-portfolio/static/js/main.61c026e5.js",
     "static/media/img3.png": "/my-portfolio/static/media/img3.164577371826ec0554c5.png",
     "static/media/hero_image.png": "/my-portfolio/static/media/hero_image.26a2279ac901781f8735.png",
     "static/media/img1.png": "/my-portfolio/static/media/img1.5fb2853d9a30243f1523.png",
     "static/media/dev_image.png": "/my-portfolio/static/media/dev_image.e242e68d778da5d04d1a.png",
-    "static/media/Sayed_Mubashir_Ali_Resume.pdf": "/my-portfolio/static/media/Sayed_Mubashir_Ali_Resume.5f83e7e69f3476f9ade2.pdf",
+    "static/media/Sayed_Mubashir_Ali_Resume.pdf": "/my-portfolio/static/media/Sayed_Mubashir_Ali_Resume.0b195826eced5938d04b.pdf",
     "static/media/img2.png": "/my-portfolio/static/media/img2.0f29dfd9d655ee34f1b0.png",
     "index.html": "/my-portfolio/index.html",
     "main.9faee23c.css.map": "/my-portfolio/static/css/main.9faee23c.css.map",
-    "main.61000b0e.js.map": "/my-portfolio/static/js/main.61000b0e.js.map"
+    "main.61c026e5.js.map": "/my-portfolio/static/js/main.61c026e5.js.map"
   },
   "entrypoints": [
     "static/css/main.9faee23c.css",
-    "static/js/main.61000b0e.js"
+    "static/js/main.61c026e5.js"
   ]
 }
