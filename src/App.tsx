@@ -10,19 +10,19 @@ import { Toaster } from "react-hot-toast";
 import ReactGA from "react-ga4";
 
 const App: React.FC = () => {
-  ReactGA.initialize("G-4QJQTB4F1M");
-  return (
-    <>
-      <Toaster />
-      <Header />
-      <Nav />
-      <About />
-      <Experience />
-      <Myprojects />
-      <Contacts />
-      <Footer />
-    </>
-  );
+	ReactGA.initialize("G-4QJQTB4F1M");
+	return (
+		<>
+			<Toaster />
+			<Header />
+			<Nav />
+			<About />
+			<Experience />
+			<Myprojects />
+			<Contacts />
+			<Footer />
+		</>
+	);
 };
 
 export default App;
